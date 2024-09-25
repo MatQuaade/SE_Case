@@ -1,0 +1,12 @@
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Domiane/bin/Debug/net6.0/AssetService.Domiane.deps.json
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Domiane/bin/Debug/net6.0/AssetService.Domiane.dll
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Domiane/bin/Debug/net6.0/AssetService.Domiane.pdb
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Domiane/obj/Debug/net6.0/Domiane.csproj.AssemblyReference.cache
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Domiane/obj/Debug/net6.0/Domiane.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Domiane/obj/Debug/net6.0/Domiane.AssemblyInfoInputs.cache
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Domiane/obj/Debug/net6.0/Domiane.AssemblyInfo.cs
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Domiane/obj/Debug/net6.0/Domiane.csproj.CoreCompileInputs.cache
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Domiane/obj/Debug/net6.0/AssetService.Domiane.dll
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Domiane/obj/Debug/net6.0/refint/AssetService.Domiane.dll
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Domiane/obj/Debug/net6.0/AssetService.Domiane.pdb
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Domiane/obj/Debug/net6.0/ref/AssetService.Domiane.dll

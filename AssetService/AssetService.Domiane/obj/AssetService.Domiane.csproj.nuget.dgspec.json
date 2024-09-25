@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mathildequaade/Projects/Case/AssetService/AssetService.Domiane/AssetService.Domiane.csproj": {}
+  },
+  "projects": {
+    "/Users/mathildequaade/Projects/Case/AssetService/AssetService.Domiane/AssetService.Domiane.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mathildequaade/Projects/Case/AssetService/AssetService.Domiane/AssetService.Domiane.csproj",
+        "projectName": "AssetService.Domiane",
+        "projectPath": "/Users/mathildequaade/Projects/Case/AssetService/AssetService.Domiane/AssetService.Domiane.csproj",
+        "packagesPath": "/Users/mathildequaade/.nuget/packages/",
+        "outputPath": "/Users/mathildequaade/Projects/Case/AssetService/AssetService.Domiane/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mathildequaade/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mathildequaade/Projects/Case/AssetService/AssetService.Infrastructure/AssetService.Infrastructure.csproj": {
+                "projectPath": "/Users/mathildequaade/Projects/Case/AssetService/AssetService.Infrastructure/AssetService.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mathildequaade/Projects/Case/AssetService/AssetService.Infrastructure/AssetService.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mathildequaade/Projects/Case/AssetService/AssetService.Infrastructure/AssetService.Infrastructure.csproj",
+        "projectName": "AssetService.Infrastructure",
+        "projectPath": "/Users/mathildequaade/Projects/Case/AssetService/AssetService.Infrastructure/AssetService.Infrastructure.csproj",
+        "packagesPath": "/Users/mathildequaade/.nuget/packages/",
+        "outputPath": "/Users/mathildequaade/Projects/Case/AssetService/AssetService.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mathildequaade/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

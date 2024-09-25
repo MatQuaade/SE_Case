@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rbUMrjq6Rafgh1DZy6DUdscnAysCziFoxVHET71lfCDJsAuBibh6xX1lYbmVYC79lXgkMPEqZvdwII9PcSvIPw==",
+  "success": true,
+  "projectFilePath": "/Users/mathildequaade/Projects/Case/Gateway/Gateway/Gateway.csproj",
+  "expectedPackageFiles": [
+    "/Users/mathildequaade/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/mathildequaade/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/mathildequaade/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/mathildequaade/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/mathildequaade/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/mathildequaade/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

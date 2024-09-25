@@ -1,0 +1,15 @@
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Infrastructure/bin/Debug/net6.0/AssetService.Infrastructure.deps.json
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Infrastructure/bin/Debug/net6.0/AssetService.Infrastructure.dll
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Infrastructure/bin/Debug/net6.0/AssetService.Infrastructure.pdb
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Infrastructure/bin/Debug/net6.0/AssetService.Domiane.dll
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Infrastructure/bin/Debug/net6.0/AssetService.Domiane.pdb
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Infrastructure/obj/Debug/net6.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfo.cs
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CopyComplete
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Infrastructure/obj/Debug/net6.0/AssetService.Infrastructure.dll
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Infrastructure/obj/Debug/net6.0/refint/AssetService.Infrastructure.dll
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Infrastructure/obj/Debug/net6.0/AssetService.Infrastructure.pdb
+/Users/mathildequaade/Projects/Case/AssetService/AssetService.Infrastructure/obj/Debug/net6.0/ref/AssetService.Infrastructure.dll

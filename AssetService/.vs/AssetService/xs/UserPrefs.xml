@@ -1,0 +1,62 @@
+﻿<Properties StartupConfiguration="{C42B1621-EC7C-4F9B-A41E-9588AA72406A}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AssetService/Properties/launchSettings.json">
+    <Files>
+      <File FileName="AssetService/Program.cs" Line="39" Column="1" />
+      <File FileName="AssetService/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="AssetService/DTOs/Responses/AssetResponse.cs" Line="19" Column="41" />
+      <File FileName="AssetService.Domiane/Entities/Asset.cs" Line="10" Column="9" />
+      <File FileName="AssetService.Domiane/Enums/Status.cs" Line="2" Column="11" />
+      <File FileName="AssetService.Domiane/Enums/FileFormat.cs" Line="6" Column="11" />
+      <File FileName="AssetService.Domiane/Repositories/IAssetRepository.cs" Line="13" Column="26" />
+      <File FileName="AssetService/Controllers/AssetController.cs" Line="59" Column="41" />
+      <File FileName="AssetService.Domiane/Models/AssetModel.cs" Line="25" Column="1" />
+      <File FileName="AssetService.Infrastructure/Repositories/AssetRepository.cs" Line="121" Column="1" />
+      <File FileName="AssetService.Infrastructure/Contexts/AssetDbContext.cs" Line="47" Column="9" />
+      <File FileName="AssetService.Domiane/Domiane.csproj" Line="21" Column="15" />
+      <File FileName="AssetService.Infrastructure/Infrastructure.csproj" Line="12" Column="91" />
+      <File FileName="AssetService/API.csproj" Line="13" Column="91" />
+      <File FileName="AssetService/Services/Contracts/IAssetService.cs" Line="13" Column="37" />
+      <File FileName="AssetService/appsettings.json" Line="1" Column="1" />
+      <File FileName="AssetService/Services/AssetService.cs" Line="26" Column="1" />
+      <File FileName="AssetService/DTOs/Requests/CreateAssetRequest.cs" Line="7" Column="6" />
+      <File FileName="AssetService/DTOs/Requests/UpdateAssetRequest.cs" Line="6" Column="24" />
+      <File FileName="AssetService/Properties/launchSettings.json" Line="23" Column="26" />
+      <File FileName="AssetService/DTOs/Requests/CreateManyAssetRequest.cs" Line="19" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AssetService" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DTOs" expanded="True">
+                <Node name="Requests" expanded="True" />
+                <Node name="Responses" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="Domiane" expanded="True">
+              <Node name="Entities" expanded="True" />
+              <Node name="Enums" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="Infrastructure" expanded="True">
+              <Node name="Contexts" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

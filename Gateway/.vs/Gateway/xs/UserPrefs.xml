@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{E7C7D2E5-0E7C-4C45-B817-1797B786AE9F}|Default">
+  <MonoDevelop.Ide.ItemProperties.Gateway PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Gateway/Properties/launchSettings.json">
+    <Files>
+      <File FileName="Gateway/Controllers/AssetController.cs" Line="25" Column="1" />
+      <File FileName="Gateway/Program.cs" Line="14" Column="92" />
+      <File FileName="Gateway/Properties/launchSettings.json" Line="16" Column="26" />
+      <File FileName="Gateway/DTOs/AssetDTO.cs" Line="9" Column="41" />
+      <File FileName="Gateway/appsettings.Development.json" Line="8" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Gateway" expanded="True">
+            <Node name="Gateway" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DTOs" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mathildequaade/Projects/Case/Gateway/Gateway/Controllers/AssetController.cs" relfile="Gateway/Controllers/AssetController.cs" line="25" column="1" />
+      <Breakpoint file="/Users/mathildequaade/Projects/Case/Gateway/Gateway/Controllers/AssetController.cs" relfile="Gateway/Controllers/AssetController.cs" line="17" column="1" />
+      <Breakpoint file="/Users/mathildequaade/Projects/Case/Gateway/Gateway/Controllers/AssetController.cs" relfile="Gateway/Controllers/AssetController.cs" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
